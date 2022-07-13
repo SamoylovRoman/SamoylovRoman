@@ -1,11 +1,11 @@
 <h3 align="left">
-  Welcome to my profile!
+  Welcome to my GitHub profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71211&center=false&vCenter=false&lines=Android+developer;2%2B+years+of+coding+experience;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+a+responseble+switcher;with+IT-education!;1%2B+years+of+android+learning"></a>
 </p>
 
 
