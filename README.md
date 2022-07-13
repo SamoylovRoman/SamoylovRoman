@@ -5,19 +5,20 @@
 
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+a+responsible+switcher;with+IT-education!;1%2B+years+of+android+learning"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=26A6E5&lines=I+am+a+responsible+switcher;with+IT-education!;1%2B+years+of+android+learning"></a>
 </p>
 
 
 <!-- Social icons section -->
 <p align="left">
+  <a href="mailto:samoylov.r.v@gmail.com"><img width="32px" alt="mail" title="mail" src="https://www.nicepng.com/png/detail/844-8445174_email-icons-envelope-light-blue-mail-icon.png"/>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/8295" alt="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/ytrewqcxz"><img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://spb.hh.ru/resume/c931c3c3ff076b90d50039ed1f37446549614f"><img width="32px" alt="HH" title="HH" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/200px-HeadHunter_logo.png"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:res1.main@gmail.com"><img width="32px" alt="mail" title="mail" src="https://static.tildacdn.com/tild6262-3762-4037-b561-346434663265/mail_ru_logo_icon_14.png"/>
+
 </p>
 
 <br/>
