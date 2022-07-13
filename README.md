@@ -23,8 +23,8 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamoylovRoman&show_icons=true&theme=radical)
   
-  ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/SamoylovRoman/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SamoylovRoman/github-stats/master/generated/overview.svg#gh-light-mode-only)
   
  <h3> 
   Libraries:  
