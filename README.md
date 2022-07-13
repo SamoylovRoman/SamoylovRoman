@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+a+responseble+switcher;with+IT-education!;1%2B+years+of+android+learning"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+a+responsible+switcher;with+IT-education!;1%2B+years+of+android+learning"></a>
 </p>
 
 
