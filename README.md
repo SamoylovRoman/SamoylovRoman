@@ -11,11 +11,11 @@
 
 <!-- Social icons section -->
 <p align="left">
-  <a href="mailto:samoylov.r.v@gmail.com"><img width="32px" alt="mail" title="mail" src="https://www.nicepng.com/png/detail/844-8445174_email-icons-envelope-light-blue-mail-icon.png"/>
+  <a href="mailto:samoylov.r.v@gmail.com"><img width="32px" alt="mail" title="mail" src="https://aux.iconspalace.com/uploads/email-round-icon-256.png"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/8295" alt="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discordapp.com/users/5391" alt="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/ytrewqcxz"><img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"></a>
+  <a href="https://t.me/RmanSamoylov"><img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://spb.hh.ru/resume/c931c3c3ff076b90d50039ed1f37446549614f"><img width="32px" alt="HH" title="HH" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/200px-HeadHunter_logo.png"></a>
 
